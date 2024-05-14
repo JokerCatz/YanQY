@@ -1,1 +1,1 @@
-# YanQY
+# newbie course
