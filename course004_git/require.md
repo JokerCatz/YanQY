@@ -1,4 +1,4 @@
-# require
+# require : make self bare git repo by ssh
 
 1. you need a VM & ssh conn to the VM , the VM need be linux (recommand Ubuntu)
 1. new a bare mode git repo at the VM , like `testBare.git`
